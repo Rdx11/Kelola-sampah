@@ -31,3 +31,10 @@ Kelapah is an abbreviation for Kelola Sampah. This application is created with t
     ```bash
     php artisan make:kelapah-admin --force
     ```
+
+## Support By
+
+* [Universitas Teknologi Sumbawa](https://uts.ac.id/) - campus
+
+## suffix
+This application was created to fulfill the final assignment requirement in order to pass the Object-Oriented Programming course.
