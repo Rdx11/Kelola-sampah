@@ -31,8 +31,3 @@ Kelapah is an abbreviation for Kelola Sampah. This application is created with t
     ```bash
     php artisan make:kelapah-admin --force
     ```
-
-## Support By
-
-* [PT Amman Mineral Nusa Tenggara](https://www.amman.co.id/id/) - scholarship provider
-* [Pintar](https://pintar.co/) - Media Learning
